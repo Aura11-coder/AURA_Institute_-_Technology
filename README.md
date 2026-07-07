@@ -85,3 +85,13 @@ Coming Soon...
 ## 📄 License
 
 This project is intended for educational and business use.
+
+## 🌐 Live Demo
+
+**Website:** https://aura11-coder.github.io/AURA_Institute_-_Technology/
+
+---
+
+## 📸 Preview
+
+![Aura Institute Website](assets/logo/logo.png)
